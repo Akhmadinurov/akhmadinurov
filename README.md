@@ -1,5 +1,4 @@
 # Hi there 👋  
-# This is my Portfolio page.
 
 ## Projects:
 
@@ -7,7 +6,7 @@
 2. Figma desktop, tablet, mobile to html - https://akhmadinurov.github.io/project_2/
 3. Dropdown menu copy - see details https://akhmadinurov.github.io/pet_1/
 
-### OPEN TO NEW JOB OFFERS
+### I AM OPEN TO NEW JOB OFFERS
 
 DJINNI profile - https://djinni.co/q/6813f744a9/
 
