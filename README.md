@@ -14,6 +14,9 @@
 - For contacts - http://t.me/igorskee
 
 
+___________________________________________________________
+* To make links active - click "See this project on Github" :)
+
 <!--
 **Akhmadinurov/akhmadinurov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
