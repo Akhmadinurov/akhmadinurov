@@ -10,9 +10,11 @@
 
 DJINNI profile - https://djinni.co/q/6813f744a9/
 
-CV, Portfolio on-line - https://sites.google.com/view/akhmadinurov/homepage
+Summary and Portfolio - https://sites.google.com/view/akhmadinurov/homepage
 
-You may contact me via telegram http://t.me/igorskee
+CV Download - https://docs.google.com/document/d/1U3Sh9LIVsOPpbD20SkCF_tyNXv_eZR6Ye7DR8Qd_jvM/edit?usp=sharing
+
+For contacts - http://t.me/igorskee
 
 
 <!--
