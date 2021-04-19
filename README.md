@@ -8,7 +8,7 @@
 3. Dropdown menu copy - see details https://akhmadinurov.github.io/pet_1/
 
 ### OPEN TO NEW JOB OFFERS
-You may contact me via (telegram) [http://t.me/igorskee] 
+You may contact me via (telegram)[http://t.me/igorskee] 
 <!--
 **Akhmadinurov/akhmadinurov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
