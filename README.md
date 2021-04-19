@@ -8,7 +8,9 @@
 3. Dropdown menu copy - see details https://akhmadinurov.github.io/pet_1/
 
 ### OPEN TO NEW JOB OFFERS
+
 DJINNI profile - https://djinni.co/q/6813f744a9/
+
 CV, Portfolio on-line - https://sites.google.com/view/akhmadinurov/homepage
 
 You may contact me via telegram http://t.me/igorskee
