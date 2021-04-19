@@ -15,7 +15,7 @@
 
 
 ___________________________________________________________
-* To make links active - click "View this project on Github" and scroll down a little :)
+* If links disabled - click "View this project on Github" :)
 
 <!--
 **Akhmadinurov/akhmadinurov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
