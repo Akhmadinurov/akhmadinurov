@@ -3,12 +3,12 @@
 
 ## Projects:
 
-1. Figma to html - [https://akhmadinurov.github.io/project_3/]
+1. Figma to html - https://akhmadinurov.github.io/project_3/
 2. Figma desktop, tablet, mobile to html - https://akhmadinurov.github.io/project_2/
-3. Dropdown menu copy - see details [https://akhmadinurov.github.io/pet_1/]
+3. Dropdown menu copy - see details https://akhmadinurov.github.io/pet_1/
 
 ### OPEN TO NEW JOB OFFERS
-You may contact me via (telegram)[t.me/igorskee] 
+You may contact me via (telegram) [http://t.me/igorskee] 
 <!--
 **Akhmadinurov/akhmadinurov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
