@@ -4,7 +4,8 @@
 
 1. Figma to html - https://akhmadinurov.github.io/project_3/
 2. Figma desktop, tablet, mobile to html - https://akhmadinurov.github.io/project_2/
-3. PET/TESTtask - Dropdown menu copy - see details https://akhmadinurov.github.io/pet_1/
+3. TEST task - Dropdown menu partial recreation - see details https://akhmadinurov.github.io/pet_1/
+4. TEST task - grid layout creation - https://akhmadinurov.github.io/test_grids/
 
 ### I AM OPEN TO NEW JOB OFFERS
 
