@@ -13,8 +13,8 @@ FreeCodeCamp – Responsive Web Design certification – in progress.
 
 1. Figma to html - https://akhmadinurov.github.io/project_3/
 2. Figma desktop, tablet, mobile to html - https://akhmadinurov.github.io/project_2/
-3. TEST task - Dropdown menu partial recreation - see details https://akhmadinurov.github.io/pet_1/
-4. TEST task - grid layout creation - https://akhmadinurov.github.io/test_grids/
+3. pet project - Dropdown menu partial recreation - see details https://akhmadinurov.github.io/pet_1/
+4. pet project - grid layout creation - https://akhmadinurov.github.io/test_grids/
 
 ### I AM OPEN TO NEW JOB OFFERS
 
