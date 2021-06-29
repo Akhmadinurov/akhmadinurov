@@ -1,14 +1,4 @@
 Hi there 👋  
-# Summary
-SWITCHER/JUNIOR. 
-Prior experience is outdated/non relevant (2 years as html - coder)
-Knowledge of modern technologies can be verified by checking GitHub/Portfolio. 
-Highly motivated to start as Html coder and evolve in Front-end development.
-Currently doing pet projects (links below) and learning modern technologies:
-Udemy - The Complete 2020 Web Development Bootcamp,
-MDN web docs – “Learn web development” - in progress, 
-FreeCodeCamp – Responsive Web Design certification – in progress.
-
 ## Projects:
 
 1. Figma to html - https://akhmadinurov.github.io/project_3/
