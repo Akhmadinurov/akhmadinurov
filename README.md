@@ -1,7 +1,7 @@
 Hi there 👋  
 ## Projects:
 
-- Figma to responsive html [simple animations, modal window, sandwich menu, slick slider/jquery] 
+- Figma to responsive html [simple animations, modal window, slick slider] - https://akhmadinurov.github.io/plannerapp/ 
 - Figma to responsive html - https://akhmadinurov.github.io/project_3/
 - Figma to responsive html - https://akhmadinurov.github.io/project_2/
 - Dropdown menu partial recreation - see details https://akhmadinurov.github.io/pet_1/
