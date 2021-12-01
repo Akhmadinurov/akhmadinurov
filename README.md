@@ -6,8 +6,7 @@ Hi there 👋
 https://sites.google.com/view/akhmadinurov/homepage
 
 ## Projects:
-
-- Photoshop to Bootstarp 5 https://akhmadinurov.github.io/nfttraderworld/
+- Photoshop to Bootstrap 5 https://akhmadinurov.github.io/nfttraderworld/
 - Figma to responsive html [simple animations, modal window, slick slider] - https://akhmadinurov.github.io/plannerapp/ 
 - Figma to responsive html - https://akhmadinurov.github.io/project_3/
 - Figma to responsive html - https://akhmadinurov.github.io/project_2/
